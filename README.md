@@ -31,7 +31,7 @@ To run Game Discoverer locally, follow these steps:
 2. Navigate to the project directory:
 
    ```
-   $ cd game-discoverer
+   $ cd game-Browser
    ```
 
 3. Install the dependencies using NPM:
