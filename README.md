@@ -25,7 +25,7 @@ To run Game Discoverer locally, follow these steps:
 1. Clone the repository:
 
    ```
-   $ git clone https://github.com/your-username/game-discoverer.git
+   $ git clone https://github.com/arjun-re/game-Browser.git
    ```
 
 2. Navigate to the project directory:
